@@ -1,0 +1,14 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DataSanitizer/.vs
+/DataSanitizer/DataSanitizer.Domain/bin/Debug/net8.0
+/DataSanitizer/DataSanitizer.Domain/obj
+/DataSanitizer/DataSanitizer.Infrastructure/bin/Debug/net8.0
+/DataSanitizer/DataSanitizer.Infrastructure/obj
+/DataSanitizer/DataSanitizer.Tests/bin/Debug/net8.0
+/DataSanitizer/DataSanitizer.Tests/obj
+/DataSanitizer/DataSanitizer.Worker/bin/Debug/net8.0
+/DataSanitizer/DataSanitizer.Worker/obj
