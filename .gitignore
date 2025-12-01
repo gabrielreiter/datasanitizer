@@ -12,3 +12,4 @@
 /DataSanitizer/DataSanitizer.Tests/obj
 /DataSanitizer/DataSanitizer.Worker/bin/Debug/net8.0
 /DataSanitizer/DataSanitizer.Worker/obj
+/DataSanitizer/DataSanitizer.Worker/logs
